@@ -1,0 +1,1 @@
+export var variable_from_module = 3456;
